@@ -8,8 +8,8 @@ from telegram.ext import (
 )
 
 # ========== تنظیمات ==========
-BOT_TOKEN = "YOUR_BOT_TOKEN_HERE"
-GROQ_API_KEY = "YOUR_GROQ_API_KEY_HERE"
+BOT_TOKEN = "8864556595:AAFUbKSbXh7kj8ggDqEM1VPGOmrrJj43lys"
+GROQ_API_KEY = "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"
 GROQ_MODEL = "llama3-70b-8192"
 
 # ========== سیستم پرامپت ==========
